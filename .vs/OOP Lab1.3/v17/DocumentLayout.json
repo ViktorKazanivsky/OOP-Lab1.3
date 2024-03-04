@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568120-7CBD-4C23-A555-492BC0B538DF}|OOP Lab1.3\\OOP Lab1.3.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\LongLong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F568120-7CBD-4C23-A555-492BC0B538DF}|OOP Lab1.3\\OOP Lab1.3.vcxproj|solutionrelative:OOP Lab1.3\\LongLong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568120-7CBD-4C23-A555-492BC0B538DF}|OOP Lab1.3\\OOP Lab1.3.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\LongLong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F568120-7CBD-4C23-A555-492BC0B538DF}|OOP Lab1.3\\OOP Lab1.3.vcxproj|solutionrelative:OOP Lab1.3\\LongLong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568120-7CBD-4C23-A555-492BC0B538DF}|OOP Lab1.3\\OOP Lab1.3.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F568120-7CBD-4C23-A555-492BC0B538DF}|OOP Lab1.3\\OOP Lab1.3.vcxproj|solutionrelative:OOP Lab1.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8FCBB7-6ACF-4526-BEB5-5B49EF3CDD1B}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C8FCBB7-6ACF-4526-BEB5-5B49EF3CDD1B}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 77,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T20:01:31.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LongLong.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\LongLong.cpp",
+              "RelativeDocumentMoniker": "OOP Lab1.3\\LongLong.cpp",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\LongLong.cpp",
+              "RelativeToolTip": "OOP Lab1.3\\LongLong.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T19:27:32.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongLong.h",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\LongLong.h",
+              "RelativeDocumentMoniker": "OOP Lab1.3\\LongLong.h",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\LongLong.h",
+              "RelativeToolTip": "OOP Lab1.3\\LongLong.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T19:27:20.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\Source.cpp",
+              "RelativeDocumentMoniker": "OOP Lab1.3\\Source.cpp",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.3\\OOP Lab1.3\\Source.cpp",
+              "RelativeToolTip": "OOP Lab1.3\\Source.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T19:27:08.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
